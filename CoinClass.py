@@ -2,6 +2,7 @@ import random
 
 # The Coin class simulates a coin that can
 # be flipped.
+# mutator method allows u to change the value of an attribute
 
 class Coin:
     # The _ _init_ _ method initializes the
